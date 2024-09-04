@@ -1174,3 +1174,32 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.09.04-15.45.16:281][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
 [2024.09.04-15.45.16:283][345]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_00155D7CD37B001902_1553994895
 [2024.09.04-15.45.16:356][346]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-15.46.59:239][675]LogDerivedDataCache: C:/Users/Mtruo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2970 files in 4335 folders with total size 199 MiB.
+[2024.09.04-15.47.03:752][151]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.09.04-15.47.03:765][151]LogContentBrowser: Creating deferred item: NewFolder
+[2024.09.04-15.47.03:773][152]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.09.04-15.47.06:502][477]LogContentBrowser: Attempting asset rename: NewFolder -> Custom
+[2024.09.04-15.47.06:502][477]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.04-15.47.13:816][259]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.09.04-15.47.18:466][494]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.04-15.47.18:474][494]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.04-15.47.18:481][494]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.04-15.47.18:499][496]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.04-15.47.22:545][954]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Custom
+[2024.09.04-15.47.22:572][954]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.04-15.47.23:951][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/BP_Custom.BP_Custom
+[2024.09.04-15.47.23:955][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-15.47.23:956][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.04-15.47.23:970][113]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.09.04-15.47.24:685][113]LogViewport: Scene viewport resized to 1143x986, mode Windowed.
+[2024.09.04-15.47.29:648][604]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-15.47.31:523][743]BlueprintLog: New page: Compile BP_Custom
+[2024.09.04-15.47.31:547][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.09.04-15.47.32:128][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.04-15.47.32:191][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/BP_Custom" FILE="../../../../../../Users/Mtruo/OneDrive/Documents/GitHub/UnrealTest/MyProject 5.3/Content/Custom/BP_Custom.uasset" SILENT=true
+[2024.09.04-15.47.32:196][785]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005494 seconds
+[2024.09.04-15.47.32:203][785]LogSavePackage: Moving output files for package: /Game/Custom/BP_Custom
+[2024.09.04-15.47.32:203][785]LogSavePackage: Moving '../../../../../../Users/Mtruo/OneDrive/Documents/GitHub/UnrealTest/MyProject 5.3/Saved/BP_Custom866EB67C4DDC53518DCB6A91FD2ABA11.tmp' to '../../../../../../Users/Mtruo/OneDrive/Documents/GitHub/UnrealTest/MyProject 5.3/Content/Custom/BP_Custom.uasset'
+[2024.09.04-15.47.32:213][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms
+[2024.09.04-15.47.32:215][785]AssetCheck: New page: Asset Save: BP_Custom
+[2024.09.04-15.47.32:215][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/BP_Custom.BP_Custom
