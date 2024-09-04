@@ -1225,3 +1225,14 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.09.04-16.08.55:217][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair
 [2024.09.04-16.08.55:219][108]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_CC96E521174F011902_1899189071
 [2024.09.04-16.09.00:115][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.04-16.16.34:120][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.09.04-16.16.34:124][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.04-16.16.34:163][986]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004514 seconds
+[2024.09.04-16.16.34:165][986]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HY/7S1W7633ZRBFDOWRHG7Y9L
+[2024.09.04-16.16.34:165][986]LogSavePackage: Moving '../../../../../../Users/A00561885/Documents/GitHub/UnrealTest/MyProject 5.3/Saved/7S1W7633ZRBFDOWRHG7Y9L141A2A4D4B9DDB3D2F25AF87C5B8013B.tmp' to '../../../../../../Users/A00561885/Documents/GitHub/UnrealTest/MyProject 5.3/Content/__ExternalActors__/NewMap/E/HY/7S1W7633ZRBFDOWRHG7Y9L.uasset'
+[2024.09.04-16.16.34:220][986]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/Materials/M_Chair
+[2024.09.04-16.16.34:220][986]LogSavePackage: Moving '../../../../../../Users/A00561885/Documents/GitHub/UnrealTest/MyProject 5.3/Saved/M_ChairCD3F7278410E09D5FEBA34BF10F788C8.tmp' to '../../../../../../Users/A00561885/Documents/GitHub/UnrealTest/MyProject 5.3/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2024.09.04-16.16.34:239][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms
+[2024.09.04-16.16.34:241][986]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.04-16.16.34:241][986]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_CC96E521174F011902_1899189071
+[2024.09.04-16.16.34:241][986]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
