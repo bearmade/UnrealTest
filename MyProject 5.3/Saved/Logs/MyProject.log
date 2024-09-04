@@ -1508,3 +1508,4 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.09.04-13.56.05:441][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2024.09.04-13.56.09:850][137]LogSlate: Window 'Content Browser' being destroyed
 [2024.09.04-13.56.09:862][137]LogSlate: Window 'Content Browser' being destroyed
+[2024.09.04-13.56.47:316][250]LogDerivedDataCache: C:/Users/a00576053/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.109 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 367 files in 681 folders with total size 12 MiB.
